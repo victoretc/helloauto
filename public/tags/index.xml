@@ -11,6 +11,18 @@
     
     
     
+    <item>
+      <title>Hello</title>
+      <link>http://localhost:1313/hello/</link>
+      <pubDate>Sat, 23 Mar 2024 18:25:58 +0300</pubDate>
+      
+      <guid>http://localhost:1313/hello/</guid>
+      <description>&lt;p&gt;Еще один Пост&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
     
     
     <item>
@@ -19,7 +31,8 @@
       <pubDate>Sat, 23 Mar 2024 18:11:19 +0300</pubDate>
       
       <guid>http://localhost:1313/my-post/</guid>
-      <description></description>
+      <description>&lt;p&gt;Первый пост&lt;/p&gt;
+</description>
     </item>
     
     
