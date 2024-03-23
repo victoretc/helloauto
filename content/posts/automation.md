@@ -152,15 +152,15 @@ Selenium – это инструмент для автоматизированн
 В общем, когда вы пишете тест на, скажем, Python, используя Selenium WebDriver, ваш код отправляет команды драйверу соответствующего браузера (например, ChromeDriver для Chrome), который в свою очередь управляет реальным браузером. Современная архитектура Selenium WebDriver также интегрирована с W3C WebDriver протоколом, который стандартизирует обмен сообщениями между клиентскими библиотеками и драйверами браузеров.
 
 Устанавливаем Selenium и переходим к импортам. 
-Документация Selenium: [https://www.selenium.dev/documentation/webdriver/]
+Документация Selenium: (<https://www.selenium.dev/documentation/webdriver/>)
 
 Инструкция по написанию первого теста: 
-[https://www.selenium.dev/documentation/webdriver/getting_started/first_script/]
+(<https://www.selenium.dev/documentation/webdriver/getting_started/first_script/>)
 
 Что такое пакет в Python?
-[https://docs.python.org/3/tutorial/modules.html#packages]
+(<https://docs.python.org/3/tutorial/modules.html#packages>)
 
-Репозиторий с кодом урока: [https://github.com/victoretc/selenium_automation_course/tree/main/lesson1]
+Репозиторий с кодом урока: (<https://github.com/victoretc/selenium_automation_course/tree/main/lesson1>)
 
 В Readme.md можно найти домашнее задание. 
 
