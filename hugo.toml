@@ -1,5 +1,5 @@
 baseURL = "https://example.com"
-title = "Website Name"
+title = "Автоматизация тестирования UI на Python"
 theme = "etch"
 languageCode = "en-US"
 enableInlineShortcodes = true
